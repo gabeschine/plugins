@@ -1,3 +1,12 @@
+
+## 0.7.0+4
+
+* Fix crash when taking picture with orientation lock
+
+## 0.7.0+3
+
+* Clockwise rotation of focus point in android 
+
 ## 0.7.0+2
 
 * Fix example reference in README.
